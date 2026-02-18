@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "PalaeoKin"
+version: "1.0.0"
+date-released: "2026-02-11"
+license: "MIT"
+authors:
+  - family-names: "Murchie"
+    given-names: "Tyler"
+repository-code: ""
+keywords:
+  - ancient DNA
+  - aDNA
+  - relatedness
+  - low coverage
+  - kinship
+  - ANGSD
+  - NgsRelate

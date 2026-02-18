@@ -1,0 +1,32 @@
+# Outputs / runs
+palaeokin_out/
+out/
+results/
+logs/
+tmp/
+work/
+.cache/
+__pycache__/
+*.pyc
+
+# Large genomics files
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.fasta
+*.fa
+*.fna
+*.vcf
+*.vcf.gz
+*.bcf
+*.bcf.gz
+*.glf
+*.glf.gz
+
+# OS/editor
+.DS_Store
+*.swp

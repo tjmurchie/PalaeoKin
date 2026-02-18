@@ -1,0 +1,13 @@
+name: palaeokin
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - samtools
+  - angsd
+  - ngsrelate
