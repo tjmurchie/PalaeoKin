@@ -18,7 +18,6 @@ PalaeoKin is useful when you:
 - have **ancient/historical DNA** with short fragments and damage patterns
 - have **low or uneven endogenous coverage**
 - want a **BAM-in → report-out** workflow
-- need QC that supports a defensible “**inconclusive**” call when data are too sparse
 
 It’s particularly handy outside human SNP-panel workflows (e.g., wildlife archaeology / palaeogenomics).
 
