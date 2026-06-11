@@ -3,7 +3,7 @@ message: "If you use this software, please cite it using the metadata from this 
 title: "PalaeoKin"
 version: "1.0.0"
 date-released: "2026-02-11"
-license: "MIT"
+license: "AGPL-3.0-or-later"
 authors:
   - family-names: "Murchie"
     given-names: "Tyler"
